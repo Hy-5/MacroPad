@@ -568,12 +568,14 @@ Text GLabel 6450 4100 1    50   Input ~ 0
 COL0
 Text GLabel 7100 4100 1    50   Input ~ 0
 COL1
-Text GLabel 3900 3550 2    50   Input ~ 0
-COL1
-Text GLabel 3900 3650 2    50   Input ~ 0
-COL0
 Text GLabel 3900 3750 2    50   Input ~ 0
-ROW1
+COL1
+Text GLabel 3900 3550 2    50   Input ~ 0
+COL0
 Text GLabel 3900 5050 2    50   Input ~ 0
+ROW1
+Text GLabel 3900 3650 2    50   Input ~ 0
 ROW0
+Wire Wire Line
+	5150 2250 5350 2250
 $EndSCHEMATC
